@@ -10,7 +10,6 @@ int main()
         char text[105] = {0}, code[1005] = {'\0'};
         int number[105] = {0};
         scanf("%s", text);
-        ;
         for (int i = 0; i < strlen(text); i++)
         {
             if (text[i] >= 'A' && text[i] <= 'Z')

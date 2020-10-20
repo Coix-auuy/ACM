@@ -1,0 +1,16 @@
+#include<iostream>
+#include<vector>
+class Solution {
+public:
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        
+    }
+};
+void console()
+{
+
+}
+int main(int *argc,char **argv)
+{
+    console();
+}
